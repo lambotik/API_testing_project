@@ -1,7 +1,5 @@
 import json
 
-import requests
-from requests import Response
 from utils.checking import Checking
 
 from utils.api import GoogleMapsAPI
@@ -57,5 +55,3 @@ class TestCreatePlace:
         Checking.check_json_search_word_in_value(result_get, 'msg', 'place_id')
 
         print('\nTesting of creating, editing and deleting a new location was successfully completed')
-
-
