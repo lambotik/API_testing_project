@@ -1,0 +1,122 @@
+https://swapi.dev/api/people/4/
+name: Darth Vader: is correct
+Successfully!!! Status code is: 200
+List films with Dart Vader: ['https://swapi.dev/api/films/1/', 'https://swapi.dev/api/films/2/', 'https://swapi.dev/api/films/3/', 'https://swapi.dev/api/films/6/']
+https://swapi.dev/api/people/4/
+name: Darth Vader: is correct
+https://swapi.dev/api/films/1/
+Successfully!!! Status code is: 200
+https://swapi.dev/api/films/2/
+Successfully!!! Status code is: 200
+https://swapi.dev/api/films/3/
+Successfully!!! Status code is: 200
+https://swapi.dev/api/films/6/
+Successfully!!! Status code is: 200
+https://swapi.dev/api/people/4/ is present in ['https://swapi.dev/api/people/1/', 'https://swapi.dev/api/people/2/', 'https://swapi.dev/api/people/3/', 'https://swapi.dev/api/people/4/', 'https://swapi.dev/api/people/5/', 'https://swapi.dev/api/people/6/', 'https://swapi.dev/api/people/7/', 'https://swapi.dev/api/people/8/', 'https://swapi.dev/api/people/9/', 'https://swapi.dev/api/people/10/', 'https://swapi.dev/api/people/12/', 'https://swapi.dev/api/people/13/', 'https://swapi.dev/api/people/14/', 'https://swapi.dev/api/people/15/', 'https://swapi.dev/api/people/16/', 'https://swapi.dev/api/people/18/', 'https://swapi.dev/api/people/19/', 'https://swapi.dev/api/people/81/']
+https://swapi.dev/api/people/1/
+Successfully!!! Status code is: 200
+https://swapi.dev/api/people/2/
+Successfully!!! Status code is: 200
+https://swapi.dev/api/people/3/
+Successfully!!! Status code is: 200
+https://swapi.dev/api/people/4/
+Successfully!!! Status code is: 200
+https://swapi.dev/api/people/5/
+Successfully!!! Status code is: 200
+https://swapi.dev/api/people/6/
+Successfully!!! Status code is: 200
+https://swapi.dev/api/people/7/
+Successfully!!! Status code is: 200
+https://swapi.dev/api/people/8/
+Successfully!!! Status code is: 200
+https://swapi.dev/api/people/9/
+Successfully!!! Status code is: 200
+https://swapi.dev/api/people/10/
+Successfully!!! Status code is: 200
+https://swapi.dev/api/people/12/
+Successfully!!! Status code is: 200
+https://swapi.dev/api/people/13/
+Successfully!!! Status code is: 200
+https://swapi.dev/api/people/14/
+Successfully!!! Status code is: 200
+https://swapi.dev/api/people/15/
+Successfully!!! Status code is: 200
+https://swapi.dev/api/people/16/
+Successfully!!! Status code is: 200
+https://swapi.dev/api/people/18/
+Successfully!!! Status code is: 200
+https://swapi.dev/api/people/19/
+Successfully!!! Status code is: 200
+https://swapi.dev/api/people/81/
+Successfully!!! Status code is: 200
+https://swapi.dev/api/people/4/ is present in ['https://swapi.dev/api/people/1/', 'https://swapi.dev/api/people/2/', 'https://swapi.dev/api/people/3/', 'https://swapi.dev/api/people/4/', 'https://swapi.dev/api/people/5/', 'https://swapi.dev/api/people/10/', 'https://swapi.dev/api/people/13/', 'https://swapi.dev/api/people/14/', 'https://swapi.dev/api/people/18/', 'https://swapi.dev/api/people/20/', 'https://swapi.dev/api/people/21/', 'https://swapi.dev/api/people/22/', 'https://swapi.dev/api/people/23/', 'https://swapi.dev/api/people/24/', 'https://swapi.dev/api/people/25/', 'https://swapi.dev/api/people/26/']
+https://swapi.dev/api/people/20/
+Successfully!!! Status code is: 200
+https://swapi.dev/api/people/21/
+Successfully!!! Status code is: 200
+https://swapi.dev/api/people/22/
+Successfully!!! Status code is: 200
+https://swapi.dev/api/people/23/
+Successfully!!! Status code is: 200
+https://swapi.dev/api/people/24/
+Successfully!!! Status code is: 200
+https://swapi.dev/api/people/25/
+Successfully!!! Status code is: 200
+https://swapi.dev/api/people/26/
+Successfully!!! Status code is: 200
+https://swapi.dev/api/people/4/ is present in ['https://swapi.dev/api/people/1/', 'https://swapi.dev/api/people/2/', 'https://swapi.dev/api/people/3/', 'https://swapi.dev/api/people/4/', 'https://swapi.dev/api/people/5/', 'https://swapi.dev/api/people/10/', 'https://swapi.dev/api/people/13/', 'https://swapi.dev/api/people/14/', 'https://swapi.dev/api/people/16/', 'https://swapi.dev/api/people/18/', 'https://swapi.dev/api/people/20/', 'https://swapi.dev/api/people/21/', 'https://swapi.dev/api/people/22/', 'https://swapi.dev/api/people/25/', 'https://swapi.dev/api/people/27/', 'https://swapi.dev/api/people/28/', 'https://swapi.dev/api/people/29/', 'https://swapi.dev/api/people/30/', 'https://swapi.dev/api/people/31/', 'https://swapi.dev/api/people/45/']
+https://swapi.dev/api/people/27/
+Successfully!!! Status code is: 200
+https://swapi.dev/api/people/28/
+Successfully!!! Status code is: 200
+https://swapi.dev/api/people/29/
+Successfully!!! Status code is: 200
+https://swapi.dev/api/people/30/
+Successfully!!! Status code is: 200
+https://swapi.dev/api/people/31/
+Successfully!!! Status code is: 200
+https://swapi.dev/api/people/45/
+Successfully!!! Status code is: 200
+https://swapi.dev/api/people/4/ is present in ['https://swapi.dev/api/people/1/', 'https://swapi.dev/api/people/2/', 'https://swapi.dev/api/people/3/', 'https://swapi.dev/api/people/4/', 'https://swapi.dev/api/people/5/', 'https://swapi.dev/api/people/6/', 'https://swapi.dev/api/people/7/', 'https://swapi.dev/api/people/10/', 'https://swapi.dev/api/people/11/', 'https://swapi.dev/api/people/12/', 'https://swapi.dev/api/people/13/', 'https://swapi.dev/api/people/20/', 'https://swapi.dev/api/people/21/', 'https://swapi.dev/api/people/33/', 'https://swapi.dev/api/people/35/', 'https://swapi.dev/api/people/46/', 'https://swapi.dev/api/people/51/', 'https://swapi.dev/api/people/52/', 'https://swapi.dev/api/people/53/', 'https://swapi.dev/api/people/54/', 'https://swapi.dev/api/people/55/', 'https://swapi.dev/api/people/56/', 'https://swapi.dev/api/people/58/', 'https://swapi.dev/api/people/63/', 'https://swapi.dev/api/people/64/', 'https://swapi.dev/api/people/67/', 'https://swapi.dev/api/people/68/', 'https://swapi.dev/api/people/75/', 'https://swapi.dev/api/people/78/', 'https://swapi.dev/api/people/79/', 'https://swapi.dev/api/people/80/', 'https://swapi.dev/api/people/81/', 'https://swapi.dev/api/people/82/', 'https://swapi.dev/api/people/83/']
+https://swapi.dev/api/people/11/
+Successfully!!! Status code is: 200
+https://swapi.dev/api/people/33/
+Successfully!!! Status code is: 200
+https://swapi.dev/api/people/35/
+Successfully!!! Status code is: 200
+https://swapi.dev/api/people/46/
+Successfully!!! Status code is: 200
+https://swapi.dev/api/people/51/
+Successfully!!! Status code is: 200
+https://swapi.dev/api/people/52/
+Successfully!!! Status code is: 200
+https://swapi.dev/api/people/53/
+Successfully!!! Status code is: 200
+https://swapi.dev/api/people/54/
+Successfully!!! Status code is: 200
+https://swapi.dev/api/people/55/
+Successfully!!! Status code is: 200
+https://swapi.dev/api/people/56/
+Successfully!!! Status code is: 200
+https://swapi.dev/api/people/58/
+Successfully!!! Status code is: 200
+https://swapi.dev/api/people/63/
+Successfully!!! Status code is: 200
+https://swapi.dev/api/people/64/
+Successfully!!! Status code is: 200
+https://swapi.dev/api/people/67/
+Successfully!!! Status code is: 200
+https://swapi.dev/api/people/68/
+Successfully!!! Status code is: 200
+https://swapi.dev/api/people/75/
+Successfully!!! Status code is: 200
+https://swapi.dev/api/people/78/
+Successfully!!! Status code is: 200
+https://swapi.dev/api/people/79/
+Successfully!!! Status code is: 200
+https://swapi.dev/api/people/80/
+Successfully!!! Status code is: 200
+https://swapi.dev/api/people/82/
+Successfully!!! Status code is: 200
+https://swapi.dev/api/people/83/
+Successfully!!! Status code is: 200

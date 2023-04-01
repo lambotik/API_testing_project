@@ -1,3 +1,5 @@
+import allure
+
 from utils.http_methods import HTTP_Methods
 
 from utils.checking import Checking
@@ -9,6 +11,7 @@ get_resource_dv = 'people/4/'
 class SWAPI:
 
     @staticmethod
+    @allure.step('checking_dart_vader_films')
     def checking_dart_vader_films():
         get_url = base_url + get_resource_dv
         print(get_url)
@@ -19,6 +22,7 @@ class SWAPI:
     '''Method get list films with DV'''
 
     @staticmethod
+    @allure.step('get_list_films')
     def get_list_films():
         result_get = SWAPI.checking_dart_vader_films()
         Checking.check_status_code(result_get, 200)
@@ -31,6 +35,7 @@ class SWAPI:
         return list_films
 
     @staticmethod
+    @allure.step('get_list_characters')
     def get_list_characters():
         films = SWAPI.get_list_films()
         list_characters = []

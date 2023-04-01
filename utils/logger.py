@@ -1,5 +1,7 @@
 import datetime
 import os
+
+import allure
 from requests import Response
 
 
@@ -12,6 +14,7 @@ class Logger:
             logger_file.write(data)
 
     @classmethod
+    @allure.step('Add request')
     def add_request(cls, url: str, method: str):
         test_name = os.environ.get('PYTEST_CURRENT_TEST')
 
@@ -25,6 +28,7 @@ class Logger:
         cls.write_log_to_file(data_to_add)
 
     @classmethod
+    @allure.step('Add response')
     def add_response(cls, result: Response):
         cookies_as_dict = dict(result.cookies)
         headers_as_dict = dict(result.headers)
@@ -36,6 +40,3 @@ class Logger:
         data_to_add += '\n------\n'
 
         cls.write_log_to_file(data_to_add)
-
-
-

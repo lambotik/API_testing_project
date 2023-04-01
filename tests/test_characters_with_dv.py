@@ -1,10 +1,13 @@
+import allure
 import requests
 
 base_url = 'https://swapi.dev/api/'
 get_resource_dv = 'people/4/'
 
 
+@allure.suite('Test Characters')
 class TestCharacters:
+    @allure.feature('Test check all characters with Dart Vader')
     def test_check_all_characters_with_dv(self):
         get_resource = requests.get(base_url + get_resource_dv)
         json_get_resource = get_resource.json()
@@ -30,7 +33,7 @@ class TestCharacters:
                 assert requests.get(name).status_code == 200, f'Bad status code for: {name}'
                 if name_character not in list_without_duplicate:
                     list_without_duplicate.append(requests.get(name).json().get('name'))
-                    file = open('characters.txt', 'a', encoding='utf-8')
+                    file = open('../characters.txt', 'a', encoding='utf-8')
                     file.write(name_character + '\n')
                     file.close()
         # print(f'List all characters: {list_without_duplicate}')

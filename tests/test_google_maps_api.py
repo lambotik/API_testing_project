@@ -1,5 +1,7 @@
 import json
 
+import allure
+
 from utils.checking import Checking
 
 from utils.api import GoogleMapsAPI
@@ -7,7 +9,9 @@ from utils.api import GoogleMapsAPI
 """Create, edit and delete a new location"""
 
 
+@allure.feature('Test Create Place')
 class TestCreatePlace:
+    @allure.step('test_create_new_place')
     def test_create_new_place(self):
         print('\nMethod POST')
         result_post = GoogleMapsAPI.create_new_place()
