@@ -10,7 +10,7 @@ class TestSwapi:
         for character in list_characters:
             get_result = HTTP_Methods.get(character)
             name = get_result.json().get('name')
-            file = open('characters.txt', 'a', encoding='utf-8')
+            file = open('characters1.txt', 'a', encoding='utf-8')
             file.write(f'{name}\n')
             file.close()
 
