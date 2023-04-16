@@ -8,5 +8,5 @@
 ```git clone https://github.com/lambotik/API_testing_project.git```
 - 6.At the command line, type: ```cd API_testing_project```
 - 7.At the command line, type: ```pytest --alluredir=test_result/ tests/```
-- 8.Wait for all tests to pass.
+- 8.Wait for all tests to pass, may take up to 4 minutes
 - 9.To generate a report: At the command line, type: ```allure serve test_result```
